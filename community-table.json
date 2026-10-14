@@ -1,22 +1,8 @@
 {
-  "generated_at": "2026-10-14T14:06:43Z",
+  "generated_at": "2026-10-14T14:07:22Z",
   "weeks": {
-    "from": "2026-W42",
-    "to": "2026-W42"
+    "from": null,
+    "to": null
   },
-  "groups": [
-    {
-      "class": "页面实现",
-      "model": "gpt-6.1-sol",
-      "model_version": "6.1",
-      "effort": "high",
-      "records": 1,
-      "submitters": 1,
-      "done_rate": 1.0,
-      "stall_rate": 0.0,
-      "escalation_rate": 0.0,
-      "avg_minutes": 35.0,
-      "recommendation": "样本不足"
-    }
-  ]
+  "groups": []
 }
